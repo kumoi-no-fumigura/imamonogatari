@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/imamonogatari",
  "yomi": "いまものがたり",
  "category": "説話",
- "description": null,
+ "description": {
+  "kind": "説話集",
+  "era": "鎌倉中期",
+  "author": "藤原信実",
+  "desc": "似絵の名手でもあった藤原信実の作と伝える小さな説話集。宮廷の男女の機知や和歌、法師の失敗談などを、短い話として集める。"
+ },
  "editions": [
   {
    "pid": "1879565",
